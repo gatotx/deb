@@ -1,0 +1,2 @@
+#!/bin/bash
+wget https://raw.githubusercontent.com/teddysun/across/master/bench.sh -O - -o /dev/null|bash
